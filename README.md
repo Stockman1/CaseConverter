@@ -1,7 +1,7 @@
 # CaseConverter
 
 
-#1. General Descriptions
+##1. General Descriptions
 "Easily convert text to UPPERCASE, lowercase, Sentence case, and more with just one click!"
 
 "A simple and intuitive tool for transforming text into any case format you need."
