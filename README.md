@@ -1,7 +1,7 @@
 # CaseConverter
 
 
-##1. General Descriptions
+## 1. General Descriptions
 "Easily convert text to UPPERCASE, lowercase, Sentence case, and more with just one click!"
 
 "A simple and intuitive tool for transforming text into any case format you need."
@@ -12,7 +12,7 @@
 
 
 
-#2. Feature-Focused Descriptions
+# 2. Feature-Focused Descriptions
 "Convert text to UPPERCASE, lowercase, Title Case, Sentence case, Alternating Case, and Inverse Case effortlessly."
 
 "Copy, clear, and convert text in seconds with this powerful case converter."
@@ -23,7 +23,7 @@
 
 
 
-#3. User-Focused Descriptions
+# 3. User-Focused Descriptions
 "Perfect for writers, developers, and students – simplify your text formatting tasks."
 
 "No more manual text editing – let the Text Case Converter do the work for you."
@@ -34,7 +34,7 @@
 
 
 
-#4. SEO-Friendly Descriptions
+# 4. SEO-Friendly Descriptions
 "Free online text case converter – UPPERCASE, lowercase, Title Case, and more!"
 
 "Convert text to any case format instantly with this free and easy-to-use tool."
@@ -45,7 +45,7 @@
 
 
 
-#5. Fun and Catchy Descriptions
+# 5. Fun and Catchy Descriptions
 "Text transformation made fun – convert cases in style!"
 
 "From UPPERCASE to lowercase and everything in between – we’ve got you covered."
